@@ -1,4 +1,4 @@
-# docker-php-mongodb
+# nodejs-project-skeleton
 
 ## Build image and run container
     #Building the new image
