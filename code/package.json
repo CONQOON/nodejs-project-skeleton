@@ -1,0 +1,20 @@
+{
+  "name": "Skeleton",
+  "version": "0.1.0",
+  "description": "Project skeleton",
+  "author": "Benjamin Gröner <bgroener@conqoon.com",
+  "bin": {
+    "module-name": "./bin/module-name"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "private": true,
+  "analyze": true,
+  "license": "MIT"
+}
